@@ -26,7 +26,7 @@ The real address of jsonplaceholder.typicode.com is 172.64.129.28, but you can e
 
 
 # Usage
-- c:\ ... > python.exe curl.py
+c:\ ... > python.exe curl.py
 
 - Result
 - Status: 201
