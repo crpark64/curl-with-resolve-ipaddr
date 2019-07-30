@@ -29,6 +29,7 @@ The real address of jsonplaceholder.typicode.com is 172.64.129.28, but you can e
 c:\ ... > python.exe curl.py
 
 Result
+
     Status: 201
     Total Time: 0.843552
     Primary IP: 172.64.129.28 Port: 80
